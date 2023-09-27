@@ -4,7 +4,7 @@
 [Fullscreen View](https://raw.githubusercontent.com/ataunque/developer_survey_dashboard/main/github_survery_dashboard.jpg)
 ## Project Description
 
-This project provides a comprehensive analysis, using **Power BI**, of the latest trends and insights in the field of data analytics. This analysis is based on [data collected from a survey](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) conducted by data analytics influencer, Alext the Analyst, among his followers. The project's goal is to offer a detailed understanding of the evolving landscape of data analytics, as perceived by professionals and enthusiasts in the field.
+This project provides a comprehensive analysis, using **Power BI**, of the latest trends and insights in the field of data analytics. This analysis is based on [data collected from a survey](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx) conducted by data analytics influencer, Alex the Analyst, among his followers. The project's goal is to offer a detailed understanding of the evolving landscape of data analytics, as perceived by professionals and enthusiasts in the field.
 
 
 ## Business Case
